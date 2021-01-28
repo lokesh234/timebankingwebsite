@@ -1,0 +1,61 @@
+body {
+    overflow: hidden;
+    margin: 0;
+    background-image: url(background.jpg) ;
+}
+
+.Apple {
+    content:url(Apple.svg);
+    margin-top: 10vh;
+    margin-left: 45%;
+    height: 185px;
+}
+
+.Google {
+    content:url(GooglePlay.png);
+    margin-top: 2vh;
+    margin-left: 40%;
+}
+
+.footer {
+    background-color: #454545;
+    color: #ffffff;
+    padding: 15px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+}
+
+.footer-text {
+    font-size: 1.2rem;
+    font-family: 'Roboto', sans-serif;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+.container {
+    margin-top: 12vh;
+}
+
+.og {
+    margin-top: 10vh;
+}
+
+.privacy {
+    margin-top: 12vh;
+    margin-left: 85%;
+}
+
+.terms {
+    margin-top: 12vh;
+    margin-left: 4%;
+}
+
+.Phone {
+    content: url(Group1.png);
+    margin-left: 20%;
+}
